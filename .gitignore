@@ -1,0 +1,5 @@
+*.pyc
+venv/
+signal_runner.bat
+morning_signal.sh
+sox_signal/db.sqlite3
